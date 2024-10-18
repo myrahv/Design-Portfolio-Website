@@ -1,0 +1,49 @@
+.container {
+    position: relative;
+    width: 750px;
+    display: inline-block;
+}
+.image {
+    display: block;
+    width: 750px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.overlay {
+    position: absolute;
+    transition: all .3s ease;
+    opacity: 0;
+    background-color: gray;
+}
+.container:hover .overlay {
+    opacity: 1;
+}
+.text {
+    color: white;
+    font-family: "kanit", sans-serif;
+    font-weight: 200;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    line-height: 35px;
+    transform: translate(-50%,-50%);
+    font-size: 25px;
+}
+.overlayTop {
+    width: 115%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop {
+    height: 100%;
+}
+.overlayTop2 {
+    width: 115%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop2 {
+    height: 100%;
+}
