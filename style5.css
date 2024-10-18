@@ -1,0 +1,209 @@
+.container {
+    position: relative;
+    width: 400px;
+    display: inline-block;
+}
+.image {
+    display: block;
+    width: 400px;
+}
+.overlay {
+    position: absolute;
+    transition: all .3s ease;
+    opacity: 0;
+    background-color: #8F91CF;
+}
+.container:hover .overlay {
+    opacity: 1;
+}
+.text {
+    color: white;
+    font-family: "kanit", sans-serif;
+    font-weight: 300;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    line-height: 35px;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.overlayTop {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop {
+    height: 100%;
+}
+.overlayTop2 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop2 {
+    height: 100%;
+}
+.overlayTop3 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop3 {
+    height: 100%;
+}
+.overlayTop4 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop4 {
+    height: 100%;
+}
+.overlayTop5 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop5 {
+    height: 100%;
+}
+.overlayTop6 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop6 {
+    height: 100%;
+}
+.overlayTop7 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop7 {
+    height: 100%;
+}
+.overlayTop8 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop8 {
+    height: 100%;
+}
+.overlayTop9 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop9 {
+    height: 100%;
+}
+.overlayTop10 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop10 {
+    height: 100%;
+}
+.overlayTop11 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop11 {
+    height: 100%;
+}
+.overlayTop12 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop12 {
+    height: 100%;
+}
+.overlayTop13 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop13 {
+    height: 100%;
+}
+.overlayTop14 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop14 {
+    height: 100%;
+}
+.overlayTop15 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop15 {
+    height: 100%;
+}
+.overlayTop16 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop16 {
+    height: 100%;
+}
+.overlayTop17 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop17 {
+    height: 100%;
+}
+.overlayTop18 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop18 {
+    height: 100%;
+}
+.overlayTop19 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop19 {
+    height: 100%;
+}
+.overlayTop20 {
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+}
+.container:hover .overlayTop20 {
+    height: 100%;
+}
